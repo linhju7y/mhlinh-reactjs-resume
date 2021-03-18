@@ -107,7 +107,7 @@
     "experience": [
       {
         "company": "TechBee Solution",
-        "title": "Intern Frontend-Developer",
+        "title": "Intern Frontend Developer",
         "years": "01.2021 - 3.2021",
         "mainTech": [
           "ReactJS",
@@ -142,7 +142,7 @@
       }, 
       {
         "company": "CrimsonWorks Company",
-        "title": "Intern Front-end Developer",
+        "title": "Intern Frontend Developer",
         "years": "07/2019 - 10/2019",
         "mainTech": [
           "Research"
@@ -152,6 +152,17 @@
           "CSS3",
           "JavaScript",
           "Bootstrap"
+        ]
+      }, {
+        "company": "IIG Viet Nam",
+        "title": "Part time IT Support",
+        "years": "02/2019 - 07/2020",
+        "mainTech": [
+          "Networking", "Windows"
+        ],
+        "technologies": [
+          "HelpDesk",
+          "SetupOS"
         ]
       }
     ]
