@@ -29,6 +29,21 @@
           "level": "95"
         },
         {
+          "name": "ReactJS",
+          "class": "devicon-react-original",
+          "level": "95"
+        },
+        {
+          "name": "Redux",
+          "class": "devicon-redux-original",
+          "level": "95"
+        },
+        {
+          "name": "Material UI",
+          "class": "devicon-materialui-plain",
+          "level": "95"
+        },
+        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"

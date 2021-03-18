@@ -37,13 +37,11 @@
             "name": "Redux"
           },
           {
-            "class": "devicon-devicon-plain",
-            "name": "Devicon"
-          }, 
-          {
-            "class": "devicon-mysql-plain",
-            "name": "MySQL"
+            "class": "devicon-materialui-plain",
+            "name": "Material UI"
           }
+
+       
         
        
         ]
