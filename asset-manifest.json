@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mhlinh-reactjs-resume/static/css/main.345f640c.chunk.css",
+    "main.js": "/mhlinh-reactjs-resume/static/js/main.da57376c.chunk.js",
+    "main.js.map": "/mhlinh-reactjs-resume/static/js/main.da57376c.chunk.js.map",
+    "runtime-main.js": "/mhlinh-reactjs-resume/static/js/runtime-main.6ca87725.js",
+    "runtime-main.js.map": "/mhlinh-reactjs-resume/static/js/runtime-main.6ca87725.js.map",
+    "static/css/2.49ecd109.chunk.css": "/mhlinh-reactjs-resume/static/css/2.49ecd109.chunk.css",
+    "static/js/2.2dbb8040.chunk.js": "/mhlinh-reactjs-resume/static/js/2.2dbb8040.chunk.js",
+    "static/js/2.2dbb8040.chunk.js.map": "/mhlinh-reactjs-resume/static/js/2.2dbb8040.chunk.js.map",
+    "index.html": "/mhlinh-reactjs-resume/index.html",
+    "precache-manifest.dd0728a2a8f98f0bee46ba3a083d35e1.js": "/mhlinh-reactjs-resume/precache-manifest.dd0728a2a8f98f0bee46ba3a083d35e1.js",
+    "service-worker.js": "/mhlinh-reactjs-resume/service-worker.js",
+    "static/css/2.49ecd109.chunk.css.map": "/mhlinh-reactjs-resume/static/css/2.49ecd109.chunk.css.map",
+    "static/css/main.345f640c.chunk.css.map": "/mhlinh-reactjs-resume/static/css/main.345f640c.chunk.css.map",
+    "static/js/2.2dbb8040.chunk.js.LICENSE.txt": "/mhlinh-reactjs-resume/static/js/2.2dbb8040.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ca87725.js",
+    "static/css/2.49ecd109.chunk.css",
+    "static/js/2.2dbb8040.chunk.js",
+    "static/css/main.345f640c.chunk.css",
+    "static/js/main.da57376c.chunk.js"
+  ]
+}
