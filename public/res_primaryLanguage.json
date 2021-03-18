@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hi, my name is Mai Hoang Linh, a fresh graduate student with a bachelor's degree in Computer Science. I am currently seeking a position in an environment that offers a greater challenge, can help me apply what I've learnt and gain real life experience, and the opportunity to help the company thrive and be effective.",
+      "description": "",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,59 +11,86 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "TechAds",
+        "startDate": "2021",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by curator. Application handles the communication between User and Advertisement. The Users (Client, Admin, Mod) can control Advertisement with position, time, schedule, content, playlist,... ",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/techads/1.png",
+          "images/portfolio/techads/2.png"
         ],
-        "url": "",
+        "url": "https://github.com/linhju7y",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
+          {
+            "class": "devicon-react-original",
+            "name": "ReactJS"
+          },
+          {
+            "class": "devicon-redux-original",
+            "name": "Redux"
+          },
+          {
+            "class": "devicon-devicon-plain",
+            "name": "Devicon"
+          }, 
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        
+       
+        ]
+      },
+      {
+        "title": "Theater Management System",
+        "startDate": "2020",
+        "description": "This is my thesis project. Build with winform C#.",
+        "images": [
+          "images/portfolio/movie/1.png",
+          "images/portfolio/movie/2.png"
+        ],
+        "url": "https://github.com/linhju7y/QuanLyRapPhim",
+        "technologies": [
           {
             "class": "devicon-csharp-plain",
             "name": "C#"
           }
+     
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Personal Practice Projects",
+        "startDate": "2018-2021",
+        "description": "These are my personal projects. I've learned & practiced a lot!",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/some/6.png",
+          "images/portfolio/some/1.png",
+          "images/portfolio/some/2.png",
+          "images/portfolio/some/3.png",
+          "images/portfolio/some/4.png",
+          "images/portfolio/some/5.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/linhju7y/TodoApp3",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "ReactJS"
+          },
           {
             "class": "devicon-angularjs-plain",
             "name": "Angular"
@@ -81,37 +108,52 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "TechBee Solution",
+        "title": "Intern Frontend-Developer",
+        "years": "01.2021 - 3.2021",
         "mainTech": [
-          "Angular 8/9/10"
+          "ReactJS",
+          "Axios API"
+
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "Redux",
+          "HTML5",
+          "CSS3",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Material UI"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Propzy.vn",
+        "title": "Intern DevOps",
+        "years": "09.2020 - 11.2020",
         "mainTech": [
-          "Angular 7/8"
+          "Linux"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "ReactJS",
+          "NextJS",
+          "Ubuntu",
+          "CentOS",
+          "GeoServer",
+          "Nginx",
+          "DigitalOcean"
+        ]
+      }, 
+      {
+        "company": "CrimsonWorks Company",
+        "title": "Intern Front-end Developer",
+        "years": "07/2019 - 10/2019",
+        "mainTech": [
+          "Research"
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS3",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Bootstrap"
         ]
       }
     ]
